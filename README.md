@@ -10,13 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [dheerajkj.com](https://dheerajkj.com)
 
-- 📝 I sometimes write articles on [dheerajkj.com/blog](dheerajkj.com/blog)
+- 📝 I sometimes write articles on [dheerajkj.com/blog](https://dheerajkj.com/blog)
 
 - 💬 Ask me about **anything related full stack development or DSA.**
 
 - 📫 How to reach me **workdheerajkj@gmail.com**
 
-- 📄 Know about my experiences [dheerajkj.com/resume](dheerajkj.com/resume)
+- 📄 Know about my experiences [dheerajkj.com/resume](https://dheerajkj.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
