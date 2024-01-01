@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [dheerajkj.com](dheerajkj.com)
+- 👨‍💻 All of my projects are available at [dheerajkj.com](https://dheerajkj.com)
 
 - 📝 I sometimes write articles on [dheerajkj.com/blog](dheerajkj.com/blog)
 
