@@ -6,17 +6,15 @@
 
 - 🔭 I am currently a master's student at **NIT Trichy.**
 
-- 🌱 I’m currently learning **DevOps**
+- 👨‍💻 All of my projects are available at [https://imjoshiane.tech/](https://imjoshiane.tech/)
 
-- 👨‍💻 All of my projects are available at [imjoshiane.vercel.app](https://imjoshiane.vercel.app/)
-
-- 📝 I sometimes write articles on [imjoshiane.vercel.app/articles](https://imjoshiane.vercel.app/articles)
+- 📝 I sometimes write articles on [https://imjoshiane.tech/articles](https://imjoshiane.tech/articles)
 
 - 💬 Ask me about **anything related full stack development or DSA.**
 
 - 📫 How to reach me **workdheerajkj@gmail.com**
 
-- 📄 Know about my experiences [imjoshiane.vercel.app/DheerajKumar.pdf](https://imjoshiane.vercel.app/DheerajKumar.pdf)
+- 📄 Know about my experiences here - [Resume](https://imjoshiane.tech/DheerajKumar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
