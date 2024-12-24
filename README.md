@@ -6,15 +6,9 @@
 
 - 🔭 I am currently a master's student at **NIT Trichy.**
 
-- 👨‍💻 All of my projects are available at [https://imjoshiane.tech/](https://imjoshiane.tech/)
-
-- 📝 I sometimes write articles on [https://imjoshiane.tech/articles](https://imjoshiane.tech/articles)
-
 - 💬 Ask me about **anything related full stack development or DSA.**
 
 - 📫 How to reach me **workdheerajkj@gmail.com**
-
-- 📄 Know about my experiences here - [Resume](https://imjoshiane.tech/DheerajKumar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
